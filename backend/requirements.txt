@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+alembic
+pydantic
+pydantic-settings
+passlib[bcrypt]
+bcrypt==3.2.2
+python-jose[cryptography]
+python-multipart
+reportlab
+google-generativeai
+httpx
+email-validator
